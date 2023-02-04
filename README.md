@@ -1,5 +1,6 @@
 # ProtocolX
-This brand new web doxing tool made by me allows you to track people on websites and check if they have account on the website.  
+This brand new web doxing tool made by me allows you 
+to track people on websites and check if they have account on the website.  
 My Socials:
 
 ⦁ Discord > Lempl#5530
@@ -12,4 +13,3 @@ My Socials:
 
 You can contact me there in case of bugs
 
-https://github.com/Lempliiik/ProtocolX/blob/main/Screenshot_20230204_233535.jpg
